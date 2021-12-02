@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1638353399113-ffd0c643c0bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1638431755905-631694da8921?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1638367819363-345a7942afa8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+    }
+  ],
+  "Offers": [
+    {
+      "img": "https://static.connect2india.com/c2icd/product_resources/images/maggie-noodles.jpg",
+      "name": "Maggie",
+      "discount": "20%"
+    },
+    {
+      "img": "https://www.cheetos.com/sites/cheetos.com/files/2019-03/Cheetos%20Crunchy_v2_0.png",
+      "name": "Cheetos",
+      "discount": "40%"
+    },
+    {
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/1/IS/JR/JY/121358408/71uq3b9609l-sl1500--500x500.jpg",
+      "name": "Lays",
+      "discount": "33%"
+    }
+  ]
+}
