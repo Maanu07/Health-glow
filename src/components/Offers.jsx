@@ -17,8 +17,11 @@ export default function Offers() {
   }, []);
 
   return (
-    <div className='d-flex justify-content-center'>
-      {offers && offers.map((offer) => <Card offer={offer} />)}
+    <div className='mt-3' style={{ backgroundColor: "#EAEAEA" }}>
+      <h2 className='text-center pt-4'>Today's Offers</h2>
+      <div className='d-flex justify-content-center flex-wrap'>
+        {offers && offers.map((offer) => <Card offer={offer} />)}
+      </div>
     </div>
   );
 }

@@ -15,3 +15,8 @@ code {
 .carousel-item img {
   height: 400px;
 }
+
+footer {
+  background-color: #252525;
+  color: snow;
+}
